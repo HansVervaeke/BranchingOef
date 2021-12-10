@@ -1,0 +1,13 @@
+<html>
+
+<body>
+	<p>directory aanmaken</p>
+	<p>.git = git init</p>
+	<p>git status => unmodified of modified</p>
+	<p></p>
+	<p></p>
+	<p></p>
+
+</body>
+
+</html>
